@@ -1,0 +1,2 @@
+# bit
+traing new project
